@@ -1,0 +1,6 @@
+Foo north=Bar west=Baz south=Qu-ux
+Bar south=Foo west=Bee
+Qu-ux north=Foo west=Aag
+Aag east=Qu-ux north=Baz
+Baz east=Foo north=Bee south=Aag
+Bee east=Bar south=Baz
